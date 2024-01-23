@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata: 
-  name: Netflix-dep
+  name: Netflix_dep
 spec:
   template:
     metadata:
